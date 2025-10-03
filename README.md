@@ -7,10 +7,12 @@
 ---
 
 ## 🚀 Featured Projects  
-- **Library Management System** – Java-based CRUD system (Repo link)  
-- **Portfolio Website** – My personal site hosted with GitHub Pages ([Live link](https://rcbdas.github.io))  
-- **SQL Query Samples** – Advanced queries with joins, group by, parameters (coming soon)  
-- **Hibernate CRUD Demo** – Hibernate + HQL project (coming soon)  
+- **Library Management System** – Java-based CRUD system
+ [![Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/rcbdas/librarymanagementsystem3)
+- **Portfolio Website** – My personal site hosted with GitHub Pages
+ [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=vercel)](https://rcbdas.github.io)  
+-  **SQL Query Samples** – Advanced queries with joins, group by, parameters *(coming soon)*  
+- **Hibernate CRUD Demo** – Hibernate + HQL project *(coming soon)*  
 
 ---
 
